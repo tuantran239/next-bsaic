@@ -1,5 +1,5 @@
-import Log from "@/components/log";
+import User from "@/components/user";
 
 export default function Home() {
-  return <Log />;
+  return <User />;
 }
